@@ -1,2 +1,2 @@
 # JavaCode
-This repository stores the Java code I worte for university projects
+This repository stores the Java code I wrote for university projects
